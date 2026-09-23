@@ -38,4 +38,22 @@ Only the first 3 slots of the 100-element prize array contain prizes; the rest a
 
 ## 📂 Project Structure
 
+homework2/
+├── src/
+│ └── ir/
+│ └── java/
+│ ├── MCIMain.java
+│ ├── MCIMenu.java
+│ ├── MCIUser.java
+│ ├── MCILottery.java
+│ ├── SaveTenFirstUsers.java
+│ └── SaveThreePrizes.java
+└── README.md
 
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/FatemehPaksima/homework2.git
